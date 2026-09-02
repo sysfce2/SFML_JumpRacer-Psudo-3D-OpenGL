@@ -13,8 +13,8 @@ Clone the repository, change to the directory that contains the executable and
 its `images` folder, and run it:
 
 ```powershell
-git clone https://github.com/AbrarZShahriar/JumpRacer-Psudo-3D-OpenGL.git
-cd JumpRacer-Psudo-3D-OpenGL\bin\Debug
+git clone https://github.com/AbrarZShahriar/jump-racer-sfml.git
+cd jump-racer-sfml\bin\Debug
 .\JumpRacer.exe
 ```
 
